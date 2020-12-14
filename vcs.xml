@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/eltonkola/opencamera.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/iwgang/CountdownView.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Project Test" />
