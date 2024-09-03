@@ -12,6 +12,17 @@
         <target value="Android 7.1.1" />
         <api value="25" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.11.1.5:1206" />
+          </Key>
+        </key>
+        <name value="rockchip Infos_Duple" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
